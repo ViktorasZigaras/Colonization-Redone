@@ -1,0 +1,571 @@
+{
+  "build": "v018-survey-and-industry",
+  "engine": "4.7.2-stable (official)",
+  "runs": [
+    {
+      "climate": 0,
+      "events": [
+        "Turn 9 / Haudenosaunee took control of Caddo settlement 8 from Caddo.",
+        "Turn 10 / Taíno communities communities learned horse husbandry through contact with Spain.",
+        "Turn 18 / Taíno communities settlement 11 started raising horses.",
+        "Turn 18 / Caddo took control of Caddo settlement 8 from Haudenosaunee.",
+        "Turn 23 / Taíno communities settlement 12 started raising horses.",
+        "Turn 27 / Haudenosaunee took control of Caddo settlement 8 from Caddo.",
+        "Turn 33 / Taíno communities raided Santo Domingo with clubs.",
+        "Turn 33 / Tawantinsuyu raided Olinda with spears.",
+        "Turn 36 / Caddo took control of Caddo settlement 8 from Haudenosaunee.",
+        "Turn 42 / Taíno communities raided Santo Domingo with clubs.",
+        "Turn 42 / Tawantinsuyu raided Olinda with spears.",
+        "Turn 45 / Haudenosaunee took control of Caddo settlement 8 from Caddo.",
+        "Turn 51 / Taíno communities raided Santo Domingo with clubs.",
+        "Turn 51 / Tawantinsuyu raided Olinda with spears.",
+        "Turn 54 / Haudenosaunee took control of Caddo settlement 32 from Caddo.",
+        "Turn 55 / Taíno communities settlement 23 started raising horses.",
+        "Turn 60 / Taíno communities raided Santo Domingo with clubs.",
+        "Turn 60 / Tawantinsuyu raided Olinda with spears.",
+        "Turn 63 / Haudenosaunee took control of Caddo settlement 37 from Caddo.",
+        "Turn 63 / Haudenosaunee was repelled at Quebec with bows.",
+        "Turn 69 / Taíno communities was repelled at Santo Domingo with clubs.",
+        "Turn 69 / Tawantinsuyu raided Olinda with spears.",
+        "Turn 72 / Caddo took control of Caddo settlement 37 from Haudenosaunee.",
+        "Turn 72 / Haudenosaunee was repelled at Quebec with bows.",
+        "Turn 78 / Taíno communities was repelled at Santo Domingo with clubs.",
+        "Turn 78 / Tawantinsuyu raided Olinda with spears.",
+        "Turn 81 / Haudenosaunee took control of Caddo settlement 37 from Caddo.",
+        "Turn 81 / Haudenosaunee was repelled at Quebec with bows.",
+        "Turn 82 / Taíno communities settlement 35 started raising horses.",
+        "Turn 87 / Haudenosaunee raided Plymouth with bows.",
+        "Turn 87 / Taíno communities was repelled at Santo Domingo with clubs.",
+        "Turn 87 / Tawantinsuyu was repelled at Olinda with spears.",
+        "Turn 90 / Haudenosaunee took control of Caddo settlement 45 from Caddo.",
+        "Turn 90 / Haudenosaunee was repelled at Quebec with bows.",
+        "Turn 91 / Taíno communities settlement 40 started raising horses.",
+        "Turn 92 / Taíno communities settlement 39 started raising horses.",
+        "Turn 96 / Haudenosaunee raided Plymouth with bows.",
+        "Turn 96 / Taíno communities was repelled at Santo Domingo with clubs.",
+        "Turn 96 / Tawantinsuyu was repelled at Olinda with spears.",
+        "Turn 99 / Haudenosaunee took control of Caddo settlement 49 from Caddo.",
+        "Turn 99 / Haudenosaunee was repelled at Quebec with bows.",
+        "Turn 105 / Haudenosaunee raided Plymouth with bows.",
+        "Turn 105 / Taíno communities was repelled at Santo Domingo with clubs.",
+        "Turn 105 / Tawantinsuyu was repelled at Olinda with spears.",
+        "Turn 108 / Haudenosaunee took control of Caddo settlement 50 from Caddo.",
+        "Turn 108 / Haudenosaunee was repelled at Quebec with bows.",
+        "Turn 114 / Haudenosaunee raided Plymouth with bows.",
+        "Turn 114 / Taíno communities was repelled at Santo Domingo with clubs.",
+        "Turn 114 / Tawantinsuyu was repelled at Olinda with spears.",
+        "Turn 117 / Haudenosaunee took control of Caddo settlement 53 from Caddo.",
+        "Turn 117 / Haudenosaunee was repelled at Quebec with bows.",
+        "Turn 123 / Haudenosaunee raided Plymouth with bows.",
+        "Turn 123 / Taíno communities was repelled at Santo Domingo with clubs.",
+        "Turn 123 / Tawantinsuyu was repelled at Olinda with spears.",
+        "Turn 126 / Haudenosaunee was repelled at Quebec with bows.",
+        "Turn 129 / Haudenosaunee took control of Caddo settlement 54 from Caddo.",
+        "Turn 132 / Haudenosaunee was repelled at Plymouth with bows.",
+        "Turn 132 / Taíno communities was repelled at Santo Domingo with clubs.",
+        "Turn 132 / Tawantinsuyu was repelled at Olinda with spears.",
+        "Turn 135 / Haudenosaunee was repelled at Quebec with bows.",
+        "Turn 138 / Haudenosaunee took control of Caddo settlement 55 from Caddo.",
+        "Turn 141 / Haudenosaunee was repelled at Plymouth with bows.",
+        "Turn 141 / Taíno communities was repelled at Santo Domingo with clubs.",
+        "Turn 141 / Tawantinsuyu was repelled at Olinda with spears.",
+        "Turn 144 / Haudenosaunee was repelled at Quebec with bows.",
+        "Turn 150 / Haudenosaunee was repelled at Plymouth with bows.",
+        "Turn 150 / Taíno communities was repelled at Santo Domingo with clubs.",
+        "Turn 150 / Tawantinsuyu was repelled at Olinda with spears.",
+        "Turn 153 / Haudenosaunee was repelled at Quebec with bows.",
+        "Turn 159 / Haudenosaunee was repelled at Plymouth with bows.",
+        "Turn 159 / Taíno communities was repelled at Santo Domingo with clubs.",
+        "Turn 159 / Tawantinsuyu was repelled at Olinda with spears.",
+        "Turn 162 / Haudenosaunee was repelled at Quebec with bows.",
+        "Turn 168 / Haudenosaunee was repelled at Plymouth with bows.",
+        "Turn 168 / Taíno communities was repelled at Santo Domingo with clubs.",
+        "Turn 168 / Tawantinsuyu was repelled at Olinda with spears.",
+        "Turn 171 / Haudenosaunee was repelled at Quebec with bows.",
+        "Turn 177 / Haudenosaunee was repelled at Plymouth with bows.",
+        "Turn 177 / Taíno communities was repelled at Santo Domingo with clubs.",
+        "Turn 177 / Tawantinsuyu was repelled at Olinda with spears.",
+        "Turn 180 / Haudenosaunee was repelled at Quebec with bows.",
+        "Turn 186 / Haudenosaunee was repelled at Plymouth with bows.",
+        "Turn 186 / Taíno communities was repelled at Santo Domingo with clubs.",
+        "Turn 186 / Tawantinsuyu was repelled at Olinda with spears.",
+        "Turn 189 / Haudenosaunee was repelled at Quebec with bows.",
+        "Turn 195 / Haudenosaunee was repelled at Plymouth with bows.",
+        "Turn 195 / Taíno communities was repelled at Santo Domingo with clubs.",
+        "Turn 195 / Tawantinsuyu was repelled at Olinda with spears.",
+        "Turn 198 / Haudenosaunee was repelled at Quebec with bows."
+      ],
+      "final": {
+        "buildings": 126,
+        "enclosures": 6,
+        "horse_nations": [
+          "Taíno communities"
+        ],
+        "horses": 240,
+        "indigenous_sites": 57,
+        "owners": {
+          "Caddo": 1,
+          "Haudenosaunee": 14,
+          "Innu": 6,
+          "Maya communities": 6,
+          "Mexica": 6,
+          "Mi'kmaq": 6,
+          "Pueblo communities": 6,
+          "Tawantinsuyu": 6,
+          "Taíno communities": 6
+        },
+        "player_colonies": 0,
+        "player_food": 0,
+        "player_grievance_max": 0,
+        "population": 768,
+        "rival_colonies": 12,
+        "turns": 200
+      },
+      "generated": true,
+      "gifts": 0,
+      "id": "H",
+      "industry": {
+        "England": {
+          "Hammers": 80
+        },
+        "France": {
+          "Hammers": 74
+        },
+        "Portugal": {
+          "Hammers": 64,
+          "Tools": 656
+        },
+        "Spain": {
+          "Tools": 188
+        }
+      },
+      "inventory": {
+        "indigenous_stores": {
+          "Food": 3286,
+          "Furs": 480,
+          "Horses": 240,
+          "Lumber": 4560
+        },
+        "player_buildings": {},
+        "player_cargo": {},
+        "player_jobs": {
+          "Unassigned": 2
+        },
+        "player_professions": {
+          "Untrained": 2
+        },
+        "player_roles": {
+          "Unequipped": 2
+        },
+        "player_ships": {
+          "Merchantman": 1
+        },
+        "player_stores": {},
+        "player_training": {},
+        "rival_expedition_ships": 4,
+        "rival_stores": {
+          "Coats": 612,
+          "Food": 182,
+          "Furs": 450,
+          "Lumber": 592,
+          "Sugar": 938,
+          "Tools": 538
+        },
+        "routes": {
+          "ship": 0,
+          "wagon": 0
+        }
+      },
+      "mass": 0,
+      "name": "Generated / small and dry / late start",
+      "nation": "Netherlands",
+      "policy": "observe",
+      "rival_buildings": {
+        "Blacksmith House": 4,
+        "Blacksmith Shop": 4,
+        "Carpenter Shop": 12,
+        "Dock": 12,
+        "Fort": 6,
+        "Lumber Mill": 8,
+        "Stockade": 8,
+        "Warehouse": 8,
+        "Warehouse Expansion": 8
+      },
+      "rival_colonies_by_nation": {
+        "England": 3,
+        "France": 3,
+        "Portugal": 3,
+        "Spain": 3
+      },
+      "rival_decisions": {
+        "England": {
+          "Bought tools for Fort": 1,
+          "Bought tools for Warehouse Expansion": 2,
+          "Commissioned merchant vessel": 1,
+          "Completed Dock": 3,
+          "Completed Fort": 1,
+          "Completed Lumber Mill": 3,
+          "Completed Stockade": 2,
+          "Completed Warehouse": 2,
+          "Completed Warehouse Expansion": 2,
+          "Deferred Fort for budget": 121,
+          "Deferred Warehouse Expansion for budget": 20,
+          "Deferred expansion for readiness": 5,
+          "Dispatched freight": 26,
+          "Dispatched settlement expedition": 2,
+          "Founded settlement": 3,
+          "Hired Expert Lumberjack": 3,
+          "Queued Dock": 3,
+          "Queued Fort": 1,
+          "Queued Lumber Mill": 3,
+          "Queued Stockade": 2,
+          "Queued Warehouse": 2,
+          "Queued Warehouse Expansion": 2,
+          "Sold shipment in Europe": 25
+        },
+        "France": {
+          "Bought tools for Fort": 2,
+          "Bought tools for Warehouse Expansion": 2,
+          "Commissioned merchant vessel": 1,
+          "Completed Dock": 3,
+          "Completed Fort": 2,
+          "Completed Lumber Mill": 3,
+          "Completed Stockade": 2,
+          "Completed Warehouse": 2,
+          "Completed Warehouse Expansion": 2,
+          "Deferred expansion for readiness": 3,
+          "Dispatched freight": 24,
+          "Dispatched settlement expedition": 2,
+          "Founded settlement": 3,
+          "Hired Expert Fur Trapper": 3,
+          "Queued Dock": 3,
+          "Queued Fort": 2,
+          "Queued Lumber Mill": 3,
+          "Queued Stockade": 2,
+          "Queued Warehouse": 2,
+          "Queued Warehouse Expansion": 2,
+          "Sold shipment in Europe": 24
+        },
+        "Portugal": {
+          "Bought tools for Blacksmith Shop": 1,
+          "Bought tools for Fort": 2,
+          "Commissioned merchant vessel": 1,
+          "Completed Blacksmith House": 3,
+          "Completed Blacksmith Shop": 3,
+          "Completed Dock": 3,
+          "Completed Fort": 2,
+          "Completed Lumber Mill": 2,
+          "Completed Stockade": 2,
+          "Completed Warehouse": 2,
+          "Completed Warehouse Expansion": 2,
+          "Deferred Blacksmith Shop for budget": 3,
+          "Deferred Fort for budget": 81,
+          "Deferred expansion for readiness": 5,
+          "Dispatched freight": 24,
+          "Dispatched settlement expedition": 2,
+          "Founded settlement": 3,
+          "Queued Blacksmith House": 3,
+          "Queued Blacksmith Shop": 3,
+          "Queued Dock": 3,
+          "Queued Fort": 2,
+          "Queued Lumber Mill": 2,
+          "Queued Stockade": 2,
+          "Queued Warehouse": 2,
+          "Queued Warehouse Expansion": 2,
+          "Sold shipment in Europe": 24
+        },
+        "Spain": {
+          "Assigned coastal survey": 2,
+          "Bought tools for Fort": 1,
+          "Bought tools for Warehouse Expansion": 2,
+          "Commissioned merchant vessel": 1,
+          "Completed Blacksmith House": 1,
+          "Completed Blacksmith Shop": 1,
+          "Completed Dock": 3,
+          "Completed Fort": 1,
+          "Completed Stockade": 2,
+          "Completed Warehouse": 2,
+          "Completed Warehouse Expansion": 2,
+          "Deferred Blacksmith Shop for budget": 1,
+          "Deferred Fort for budget": 108,
+          "Deferred expansion for readiness": 4,
+          "Deferred expansion for site": 2,
+          "Dispatched freight": 24,
+          "Dispatched settlement expedition": 2,
+          "Founded settlement": 3,
+          "Queued Blacksmith House": 1,
+          "Queued Blacksmith Shop": 1,
+          "Queued Dock": 3,
+          "Queued Fort": 1,
+          "Queued Stockade": 2,
+          "Queued Warehouse": 2,
+          "Queued Warehouse Expansion": 2,
+          "Sold shipment in Europe": 24
+        }
+      },
+      "samples": [
+        {
+          "buildings": 9,
+          "enclosures": 0,
+          "horse_nations": [],
+          "horses": 0,
+          "indigenous_sites": 18,
+          "owners": {
+            "Caddo": 2,
+            "Haudenosaunee": 2,
+            "Innu": 2,
+            "Maya communities": 2,
+            "Mexica": 2,
+            "Mi'kmaq": 2,
+            "Pueblo communities": 2,
+            "Tawantinsuyu": 2,
+            "Taíno communities": 2
+          },
+          "player_colonies": 0,
+          "player_food": 0,
+          "player_grievance_max": 0,
+          "population": 47,
+          "rival_colonies": 0,
+          "turns": 0
+        },
+        {
+          "buildings": 26,
+          "enclosures": 2,
+          "horse_nations": [
+            "Taíno communities"
+          ],
+          "horses": 13,
+          "indigenous_sites": 23,
+          "owners": {
+            "Caddo": 2,
+            "Haudenosaunee": 3,
+            "Innu": 2,
+            "Maya communities": 4,
+            "Mexica": 2,
+            "Mi'kmaq": 2,
+            "Pueblo communities": 2,
+            "Tawantinsuyu": 3,
+            "Taíno communities": 3
+          },
+          "player_colonies": 0,
+          "player_food": 0,
+          "player_grievance_max": 0,
+          "population": 177,
+          "rival_colonies": 4,
+          "turns": 25
+        },
+        {
+          "buildings": 42,
+          "enclosures": 2,
+          "horse_nations": [
+            "Taíno communities"
+          ],
+          "horses": 63,
+          "indigenous_sites": 34,
+          "owners": {
+            "Caddo": 2,
+            "Haudenosaunee": 6,
+            "Innu": 2,
+            "Maya communities": 4,
+            "Mexica": 4,
+            "Mi'kmaq": 4,
+            "Pueblo communities": 3,
+            "Tawantinsuyu": 6,
+            "Taíno communities": 3
+          },
+          "player_colonies": 0,
+          "player_food": 0,
+          "player_grievance_max": 0,
+          "population": 309,
+          "rival_colonies": 6,
+          "turns": 50
+        },
+        {
+          "buildings": 89,
+          "enclosures": 6,
+          "horse_nations": [
+            "Taíno communities"
+          ],
+          "horses": 161,
+          "indigenous_sites": 52,
+          "owners": {
+            "Caddo": 2,
+            "Haudenosaunee": 10,
+            "Innu": 4,
+            "Maya communities": 6,
+            "Mexica": 6,
+            "Mi'kmaq": 6,
+            "Pueblo communities": 6,
+            "Tawantinsuyu": 6,
+            "Taíno communities": 6
+          },
+          "player_colonies": 0,
+          "player_food": 0,
+          "player_grievance_max": 0,
+          "population": 599,
+          "rival_colonies": 12,
+          "turns": 100
+        },
+        {
+          "buildings": 121,
+          "enclosures": 6,
+          "horse_nations": [
+            "Taíno communities"
+          ],
+          "horses": 240,
+          "indigenous_sites": 57,
+          "owners": {
+            "Caddo": 1,
+            "Haudenosaunee": 14,
+            "Innu": 6,
+            "Maya communities": 6,
+            "Mexica": 6,
+            "Mi'kmaq": 6,
+            "Pueblo communities": 6,
+            "Tawantinsuyu": 6,
+            "Taíno communities": 6
+          },
+          "player_colonies": 0,
+          "player_food": 0,
+          "player_grievance_max": 0,
+          "population": 725,
+          "rival_colonies": 12,
+          "turns": 150
+        },
+        {
+          "buildings": 126,
+          "enclosures": 6,
+          "horse_nations": [
+            "Taíno communities"
+          ],
+          "horses": 240,
+          "indigenous_sites": 57,
+          "owners": {
+            "Caddo": 1,
+            "Haudenosaunee": 14,
+            "Innu": 6,
+            "Maya communities": 6,
+            "Mexica": 6,
+            "Mi'kmaq": 6,
+            "Pueblo communities": 6,
+            "Tawantinsuyu": 6,
+            "Taíno communities": 6
+          },
+          "player_colonies": 0,
+          "player_food": 0,
+          "player_grievance_max": 0,
+          "population": 768,
+          "rival_colonies": 12,
+          "turns": 200
+        }
+      ],
+      "seed": 999,
+      "survey": {
+        "England": 87,
+        "France": 47,
+        "Portugal": 70,
+        "Spain": 108
+      },
+      "tools_purchased": 534,
+      "use": {
+        "buildings": {
+          "Cassava gardens": {
+            "completed": 5,
+            "eligible_idle_turns": 4,
+            "final": 6,
+            "initial": 1,
+            "queued_turns": 61
+          },
+          "Chinampa gardens": {
+            "completed": 5,
+            "eligible_idle_turns": 4,
+            "final": 6,
+            "initial": 1,
+            "queued_turns": 54
+          },
+          "Exchange shelter": {
+            "completed": 0,
+            "eligible_idle_turns": 8029,
+            "final": 0,
+            "initial": 0,
+            "queued_turns": 0
+          },
+          "Fish weir": {
+            "completed": 5,
+            "eligible_idle_turns": 4,
+            "final": 6,
+            "initial": 1,
+            "queued_turns": 50
+          },
+          "Food store": {
+            "completed": 34,
+            "eligible_idle_turns": 4926,
+            "final": 34,
+            "initial": 0,
+            "queued_turns": 68
+          },
+          "Horse enclosure": {
+            "completed": 6,
+            "eligible_idle_turns": 10,
+            "final": 6,
+            "initial": 0,
+            "queued_turns": 41
+          },
+          "Irrigated fields": {
+            "completed": 5,
+            "eligible_idle_turns": 4,
+            "final": 6,
+            "initial": 1,
+            "queued_turns": 50
+          },
+          "Milpa fields": {
+            "completed": 5,
+            "eligible_idle_turns": 4,
+            "final": 6,
+            "initial": 1,
+            "queued_turns": 56
+          },
+          "Palisade": {
+            "completed": 27,
+            "eligible_idle_turns": 4513,
+            "final": 27,
+            "initial": 0,
+            "queued_turns": 273
+          },
+          "River gardens": {
+            "completed": 2,
+            "eligible_idle_turns": 11,
+            "final": 3,
+            "initial": 1,
+            "queued_turns": 54
+          },
+          "Terrace fields": {
+            "completed": 5,
+            "eligible_idle_turns": 4,
+            "final": 6,
+            "initial": 1,
+            "queued_turns": 60
+          },
+          "Three Sisters gardens": {
+            "completed": 13,
+            "eligible_idle_turns": 21,
+            "final": 14,
+            "initial": 1,
+            "queued_turns": 86
+          },
+          "Travel camps": {
+            "completed": 5,
+            "eligible_idle_turns": 4,
+            "final": 6,
+            "initial": 1,
+            "queued_turns": 52
+          }
+        },
+        "peak_european_sites": 12,
+        "peak_native_sites": 57
+      },
+      "year": 1550
+    }
+  ],
+  "turns_requested": 200
+}
